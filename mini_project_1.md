@@ -2,8 +2,8 @@
 ## Tema aplikasi: 
 
 ### Deskripsi tugas
-1. Desain Figma 
-2. Coding Flutter
+1. Layouting: membuat desain ulang layout dari tema aplikasi yang dipilih menggunakan figma.
+2. Coding: mengimplementasikannya ke dalam bahasa pemrograman Dart dari hasil desain yang telah dibuat.
 
 ### Halaman yang harus dibuat
 1. Home screen
@@ -19,6 +19,6 @@
 
 #### Referensi
 Cari:
-1. Desain layout
+1. Desain layout dari suatu aplikasi
 2. Source code example
 3. UI components (icon, logo, etc)
