@@ -1,5 +1,5 @@
 # Mini Project 1
-## Tema aplikasi: WIKI GAME
+## Tema aplikasi: WIKI GAME (ARKNIGHTS)
 ### Deskripsi aplikasi
 Aplikasi ini berupa wiki dari sebuah game atau film yang berisi karakter-karakter di dalam game atau film tersebut. Game yang berjudul Arknights akan dijadikan sebagai referensi pada halaman 'Homescreen'.
 
@@ -17,8 +17,8 @@ Aplikasi ini berupa wiki dari sebuah game atau film yang berisi karakter-karakte
 | Nama | Tugas |
 | ---- | ---- |
 | Siti Ramadina | **figma:** desain login screen, **flutter coding:** login screen, splash screen |
-| Dadang | **figma:** , **flutter coding:** |
-| Iklhasul Amal| **figma:** desain awal 4 halaman, **flutter coding:** |
+| Dadang | **figma:** profile screen , **flutter coding:** profile screen |
+| Iklhasul Amal| **figma:** desain awal 4 halaman, home screen, **flutter coding:** home screen|
 
 #### Referensi
 1. [Arknights API](https://github.com/wesngu28/rhodesapi)
