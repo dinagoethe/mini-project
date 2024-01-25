@@ -18,12 +18,14 @@ Aplikasi ini berupa wiki dari sebuah game atau film yang berisi karakter-karakte
 | ---- | ---- |
 | Siti Ramadina | **figma:** desain login screen, **flutter coding:** login screen, splash screen |
 | Dadang | **figma:** profile screen , **flutter coding:** profile screen |
-| Iklhasul Amal| **figma:** desain awal 4 halaman, home screen, **flutter coding:** home screen|
+| Ikhlasul Amal| **figma:** desain awal 4 halaman, home screen, **flutter coding:** home screen|
+
+### Vistock
+1. [Color palette 1](https://colorhunt.co/palette/1b262c0f4c753282b8bbe1fa)
+2. [Color palette 2](https://colorhunt.co/palette/6a759b21273db9d4f1f1f6f8)
+3. Font family:
+- for header: Abyssinica SIL
+- for body content: Jura
 
 #### Referensi
 1. [Arknights API](https://github.com/wesngu28/rhodesapi)
-
-Cari:
-1. Desain layout dari suatu aplikasi
-2. Source code example
-3. UI components (icon, logo, etc)
