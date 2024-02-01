@@ -17,8 +17,11 @@ Aplikasi ini berupa wiki dari sebuah game atau film yang berisi karakter-karakte
 | Nama | Tugas |
 | ---- | ---- |
 | Siti Ramadina | **figma:** desain login screen, **flutter coding:** login screen, splash screen |
-| Dadang | **figma:** profile screen , **flutter coding:** profile screen |
-| Ikhlasul Amal| **figma:** desain awal 4 halaman, home screen, **flutter coding:** home screen|
+| Dadang | - |
+| Ikhlasul Amal| **figma:** desain awal 4 halaman, home screen, **flutter coding:** home screen, profile screen|
+
+### Desain Figma
+[Design Figma Mini Project 1](https://www.figma.com/file/hiGdfnvoK2R2AArfksQ1B2/Desain-Wiki-Arknights_MiniProject1?type=design&node-id=0%3A1&mode=design&t=9MCUXl0z6EZWzONr-1)
 
 ### Vistock
 1. [Color palette 1](https://colorhunt.co/palette/1b262c0f4c753282b8bbe1fa)
