@@ -34,7 +34,7 @@ class HomeScreen extends StatelessWidget {
                       iconSize: 36,
                     ),
                     IconButton(
-                      onPressed: () => print('Tombol Menu Ditekan'),
+                      onPressed: () => Navigator.pop(context),
                       icon: const Icon(Icons.menu),
                       iconSize: 36,
                     ),

@@ -48,12 +48,12 @@ class _SplashScreenState extends State<SplashScreen>
             const Text(
               'WIKI',
               //style: TextStyle(color: Colors.white)
-              style: GoogleFonts.abyssinicaSIL(
-                textStyle: TextStyle(
-                  fontSize: 20,
-                  color: Colors.white,
-                ),
-              ),
+            //   style: GoogleFonts.abyssinicaSIL(
+            //     textStyle: TextStyle(
+            //       fontSize: 20,
+            //       color: Colors.white,
+            //     ),
+            //   ),
             ),
             const SizedBox(height: 10),
             Image.asset("assets/img/Arknights_logo.png"),
